@@ -2,3 +2,11 @@ outline.txt
 
 
 LinkedIn url - https://www.linkedin.com/in/careyliu/
+
+Layout: Carey Liu
+About Me --> Education --> Activities --> Hobbies --> Contact
+
+
+Possible fonts -
+Color scheme - #338AFF (blue) #F08080 (light salmon)
+
